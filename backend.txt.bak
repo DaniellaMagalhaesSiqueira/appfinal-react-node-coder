@@ -45,8 +45,3 @@ https://github.com/DaniellaMagalhaesSiqueira/my-money-app
 
 
 No arquivo database.js só funciona com o ip 127.0.0.1 e não com o localhost
-
-Para rodar front e backend rodamos primeiro o mongod, depois em backend 
-npm run production
-./node_modules/.bin/pm2 monit
-
